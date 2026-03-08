@@ -1,0 +1,7 @@
+{
+  "name": "book-writer",
+  "description": "儿童冒险故事书籍创作专用 - 五步法创作流程",
+  "trigger": ["写书", "创作书籍", "冒险故事", "儿童文学", "写一本"],
+  "version": "1.0.0",
+  "author": "mini"
+}

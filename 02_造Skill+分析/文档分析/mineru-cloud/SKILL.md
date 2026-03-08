@@ -1,0 +1,10 @@
+---
+name: mineru-cloud
+description: Use when need to parse PDF using MinerU cloud API.
+---
+
+# MinerU Cloud API
+
+API Key: eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiIyOTEwMDM5MiIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTc3MjM3NzIyOSwiY2xpZW50SWQiOiJsa3pkeDU3bnZ5MjJqa3BxOXgydyIsInBob25lIjoiIiwib3BlbklkIjpudWxsLCJ1dWlkIjoiNDU1MGU1NDgtM2I1YS00MTEwLThjMTMtNDlhMTBlMDQ2NmM1IiwiZW1haWwiOiIiLCJleHAiOjE4MDE1MzIyOX0.RzDHuvxuni6hBM9jqgOiLVyO9YorgHFFcQQZn8g5yGSrH4OWMUslkoBy3uts_VC2_mPj1gl_-9ypCjRAnh8tvA
+
+Base URL: https://api.mineru.cn
